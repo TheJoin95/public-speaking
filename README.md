@@ -1,8 +1,50 @@
-Welcome to your new place on the web where all of your speaking engagements are tracked 🎉
+<div align='center'><p><img src="https://img.shields.io/badge/total-2-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+</div>
+  <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
+<p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
 
-How to get started?
-1. Hit the green button on the top-right that says `Use this template` and create your own repository out of this one.
-2. In your new repository, create a new file of your recent speaking activity. There's an [example file](./pages/2021/2021-01-01.md) at `pages/2021/2021-01-01.md` to give you an idea of the format, and structure. If in doubt, head over to the [gigsboat CLI repository](https://github.com/gigsboat/cli) for even more information.
-3. Update [gigsboat.json](./gigsboat.json) so that `markdownFile` config option is set to `README.md`.
-4. Commit the file changes, and push to the main branch. Every time you make changes that merge into the `main` branch, a GitHub Actions [workflow](.github/workflows/main.yml) executes, parses all the data files under the `pages` directory, and commits to the repository a newly generated `README.md` file. The workflow will also create a folder `jekyll` that will contain the right files for the GH Pages to be deployed from the root of your repo (you don't need to explicitly set the GH Pages to point to the `docs` folder).
+ - In addition to raw HTML elements, you can use format sections
+ - Using HTML elements to construct the output
 
+
+# Table of Contents
+
+
+ - [Year of 2022](#2022) - total events 1
+ - [Year of 2021](#2021) - total events 1
+
+# 2022
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-1-20 | ImageGoNord with Fabio Biondi | [ImageGoNord - Convert any image into your fav palette](pages/2022/2022-01-20.md) |  | [Recording](https://www.youtube.com/watch?v=xA10BloVyNI) | [🇮🇹](## "Italy") | Italian |
+
+
+# 2021
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+
+
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E61MqWJXoAMJdHM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+</table>
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-01-01.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | [🇮🇱](## "Israel") | English |
+
+
+
+<p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
+
+<i>Updated on 2022-05-03T21:23:02.576Z</i>
