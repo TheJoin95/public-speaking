@@ -13,6 +13,9 @@ jobs:
         node-version: [16.x]
 
     steps:
+      - name: Fix workspace
+        run: git config --global --add safe.directory /github/workspace
+
       - uses: actions/checkout@v2
       
       - name: Use Node.js ${{ matrix.node-version }}
@@ -23,9 +26,6 @@ jobs:
       - name: Install 11ty dependencies
         run: npm i markdown-it markdown-it-anchor
       
-      - name: Fix workspace
-        run: git config --global --add safe.directory /github/workspace
-
       - name: Create gigs 
         run: npx @gigsboat/cli
 
