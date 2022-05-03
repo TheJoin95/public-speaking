@@ -41,6 +41,9 @@ jobs:
 
       - name: Create gigs html with 11ty
         run: npx @11ty/eleventy
+        
+      - name: Fix workspace
+        run: git config --global --add safe.directory /github/workspace
 
       - name: Push gigs into repository
         uses: github-actions-x/commit@v2.8
