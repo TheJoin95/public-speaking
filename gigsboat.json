@@ -3,7 +3,7 @@
     "sourceDirectory": "pages"
   },
   "output": {
-    "markdownFile": "README-gigs.md"
+    "markdownFile": "README.md"
   },
   "preContent": [
     {
