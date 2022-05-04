@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-71-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-5-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-72-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-6-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
 <p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -11,7 +11,7 @@
 
 
  - [Year of 2022](#2022) - total events 1
- - [Year of 2021](#2021) - total events 16
+ - [Year of 2021](#2021) - total events 17
  - [Year of 2020](#2020) - total events 54
 
 # 2022
@@ -30,7 +30,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square)   
 
 
 <table>
@@ -43,8 +43,9 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-12-31 | Schrodinger Hat | [Schrödinger Hat Rewind](pages/2021/2021-12-31.md) |  | [Recording](https://www.youtube.com/watch?v=j2JLxt9o8t4) | [🇮🇹](## "Italy") | Italian |
-| 2021-12-7 | Javascript Congress 2021 - WeAreDevs | [Covid-19 - A crowdsourced map for checking supermarket wait times worldwide](pages/2021/2021-12-07.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/covid-19-a-crowdsourced-map-for-checking-supermarket-wait-times-worldwide) | [🇮🇹](## "Italy") | Italian |
-| 2021-11-25 | Javascript Congress 2021 - WeAreDevs | [Automate everything via nodejs and puppeteer](pages/2021/2021-11-25.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/automate-everything-via-nodejs-and-puppeteer) | [🇮🇹](## "Italy") | Italian |
+| 2021-12-7 | Javascript Congress 2021 - WeAreDevs | [Covid-19 - A crowdsourced map for checking supermarket wait times worldwide](pages/2021/2021-12-07.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/covid-19-a-crowdsourced-map-for-checking-supermarket-wait-times-worldwide) | [🇮🇹](## "Italy") | English |
+| 2021-11-25 | Javascript Congress 2021 - WeAreDevs | [Automate everything via nodejs and puppeteer](pages/2021/2021-11-25.md) |  | [Recording](https://www.wearedevelopers.com/en/videos/automate-everything-via-nodejs-and-puppeteer) | [🇮🇹](## "Italy") | English |
+| 2021-10-8 | Javascript Congress 2021 - WeAreDevs | [Ottimizzare la UX e le performance attraverso Grafana, Prometheus e Lighthouse](pages/2021/2021-10-08.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2021-9-22 | Schrodinger Hat | [Open Source Day 2021 - Firenze](pages/2021/2021-09-22.md) |  | [Recording](https://www.youtube.com/watch?v=8z6CRK61JLA) | [🇮🇹](## "Italy") | Italian |
 | 2021-7-30 | EuroPython 2021 | [A Crowdsourced Map for checking supermarket wait times worldwide](pages/2021/2021-07-30.md) |  | [Recording](https://www.youtube.com/watch?v=CXrUAJoyTbk) | [🇮🇹](## "Italy") | Italian |
 | 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-01-01.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | [🇮🇱](## "Israel") | English |
@@ -129,4 +130,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T15:31:14.783Z</i>
+<i>Updated on 2022-05-04T15:33:05.686Z</i>
