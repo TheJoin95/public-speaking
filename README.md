@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-9-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-6-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-12-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-9-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
 <p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -12,7 +12,7 @@
 
  - [Year of 2022](#2022) - total events 1
  - [Year of 2021](#2021) - total events 1
- - [Year of 2020](#2020) - total events 7
+ - [Year of 2020](#2020) - total events 10
 
 # 2022
 
@@ -48,13 +48,16 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-10-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-9-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2020-12-24 | Schrodinger Hat | [Merry XMas & Auguri per un anno migliore](pages/2020/2020-12-24.md) |  | [Recording](https://www.youtube.com/watch?v=Dv01ObWa_rw) | [🇮🇹](## "Italy") | Italian |
+| 2020-12-18 | Schrodinger Hat | [Potremmo usare Python - scambio di file tramite LAN](pages/2020/2020-12-18.md) |  | [Recording](https://www.youtube.com/watch?v=KMz2c7YkYoU) | [🇮🇹](## "Italy") | Italian |
+| 2020-12-12 | Schrodinger Hat | [ExpStories - Jacopo Romei](pages/2020/2020-12-12.md) |  | [Recording](https://www.youtube.com/watch?v=s5uyOVQDnfA) | [🇮🇹](## "Italy") | Italian |
 | 2020-12-1 | Schrodinger Hat | [LIDL - Dalla negozazione alla collaborazione](pages/2020/2020-12-01.md) |  | [Recording](https://www.youtube.com/watch?v=yRlpWYCoYUI) | [🇮🇹](## "Italy") | Italian |
 | 2020-8-28 | Schrodinger Hat | [Bootstrap 5 - Il framework più popolare della community](pages/2020/2020-08-28.md) |  | [Recording](https://www.youtube.com/watch?v=nHCXZC2InAA) | [🇮🇹](## "Italy") | Italian |
 | 2020-8-21 | Schrodinger Hat | [FOSS Explorer 7 - L'open source italiano alla riscossa](pages/2020/2020-08-21.md) |  | [Recording](https://www.youtube.com/watch?v=nTxmy-tbqps) | [🇮🇹](## "Italy") | Italian |
@@ -67,4 +70,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T14:48:48.192Z</i>
+<i>Updated on 2022-05-04T14:51:42.752Z</i>
