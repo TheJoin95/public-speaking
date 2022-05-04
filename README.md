@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-72-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-6-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-71-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-5-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
 <p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -11,7 +11,7 @@
 
 
  - [Year of 2022](#2022) - total events 1
- - [Year of 2021](#2021) - total events 17
+ - [Year of 2021](#2021) - total events 16
  - [Year of 2020](#2020) - total events 54
 
 # 2022
@@ -30,14 +30,9 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square)   
 
 
-<table>
-  <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E61MqWJXoAMJdHM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-  </tr>
-</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -48,7 +43,6 @@
 | 2021-10-8 | Javascript Congress 2021 - WeAreDevs | [Ottimizzare la UX e le performance attraverso Grafana, Prometheus e Lighthouse](pages/2021/2021-10-08.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2021-9-22 | Schrodinger Hat | [Open Source Day 2021 - Firenze](pages/2021/2021-09-22.md) |  | [Recording](https://www.youtube.com/watch?v=8z6CRK61JLA) | [🇮🇹](## "Italy") | Italian |
 | 2021-7-30 | EuroPython 2021 | [A Crowdsourced Map for checking supermarket wait times worldwide](pages/2021/2021-07-30.md) |  | [Recording](https://www.youtube.com/watch?v=CXrUAJoyTbk) | [🇮🇹](## "Italy") | Italian |
-| 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-01-01.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | [🇮🇱](## "Israel") | English |
 | 2021-5-28 | Schrodinger Hat | [ExpStories - Alessandro Molina](pages/2021/2021-05-28.md) |  | [Recording](https://www.youtube.com/watch?v=hgwLJtGfFfQ) | [🇮🇹](## "Italy") | Italian |
 | 2021-4-23 | Schrodinger Hat | [LIDL - Modern Python stardard library cookbook](pages/2021/2021-04-23.md) |  | [Recording](https://www.youtube.com/watch?v=7IzC3uJfXJQ) | [🇮🇹](## "Italy") | Italian |
 | 2021-3-13 | Schrodinger Hat | [ExpStories - Nicola Corti](pages/2021/2021-03-13.md) |  | [Recording](https://www.youtube.com/watch?v=DDDp8gjlHG8) | [🇮🇹](## "Italy") | Italian |
@@ -130,4 +124,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T15:33:05.686Z</i>
+<i>Updated on 2022-05-04T15:34:13.250Z</i>
