@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-56-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-53-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-68-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-2-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
 <p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -11,7 +11,7 @@
 
 
  - [Year of 2022](#2022) - total events 1
- - [Year of 2021](#2021) - total events 1
+ - [Year of 2021](#2021) - total events 13
  - [Year of 2020](#2020) - total events 54
 
 # 2022
@@ -30,7 +30,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-11-yellow?style=flat-square)   
 
 
 <table>
@@ -42,7 +42,19 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2021-12-31 | Schrodinger Hat | [Schrödinger Hat Rewind](pages/2021/2021-12-31.md) |  | [Recording](https://www.youtube.com/watch?v=j2JLxt9o8t4) | [🇮🇹](## "Italy") | Italian |
+| 2021-9-22 | Schrodinger Hat | [Open Source Day 2021 - Firenze](pages/2021/2021-09-22.md) |  | [Recording](https://www.youtube.com/watch?v=8z6CRK61JLA) | [🇮🇹](## "Italy") | Italian |
 | 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-01-01.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | [🇮🇱](## "Israel") | English |
+| 2021-5-28 | Schrodinger Hat | [ExpStories - Alessandro Molina](pages/2021/2021-05-28.md) |  | [Recording](https://www.youtube.com/watch?v=hgwLJtGfFfQ) | [🇮🇹](## "Italy") | Italian |
+| 2021-4-23 | Schrodinger Hat | [LIDL - Modern Python stardard library cookbook](pages/2021/2021-04-23.md) |  | [Recording](https://www.youtube.com/watch?v=7IzC3uJfXJQ) | [🇮🇹](## "Italy") | Italian |
+| 2021-3-13 | Schrodinger Hat | [ExpStories - Nicola Corti](pages/2021/2021-03-13.md) |  | [Recording](https://www.youtube.com/watch?v=DDDp8gjlHG8) | [🇮🇹](## "Italy") | Italian |
+| 2021-3-2 | Schrodinger Hat | [Potremmo usare arduino - Giacca led](pages/2021/2021-03-02.md) |  | [Recording](https://www.youtube.com/watch?v=tDeCtnE8Gro) | [🇮🇹](## "Italy") | Italian |
+| 2021-2-27 | Schrodinger Hat | [ExpStories - Federico Paolinelli](pages/2021/2021-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=rx8IM9PFDws) | [🇮🇹](## "Italy") | Italian |
+| 2021-2-20 | Schrodinger Hat | [ExpStories - Giorgio Boa](pages/2021/2021-02-20.md) |  | [Recording](https://www.youtube.com/watch?v=fDw8C_mUa3w) | [🇮🇹](## "Italy") | Italian |
+| 2021-2-12 | Schrodinger Hat | [ExpStories - Alessio Calvo](pages/2021/2021-02-12.md) |  | [Recording](https://www.youtube.com/watch?v=KMFu307vGTc) | [🇮🇹](## "Italy") | Italian |
+| 2021-2-5 | Schrodinger Hat | [ExpStories - Claudio Mammana](pages/2021/2021-02-05.md) |  | [Recording](https://www.youtube.com/watch?v=aaikCXuZNuI) | [🇮🇹](## "Italy") | Italian |
+| 2021-2-2 | Schrodinger Hat | [Potremmo usare python - gestione avanzata dei file](pages/2021/2021-02-02.md) |  | [Recording](https://www.youtube.com/watch?v=0jSRVGW7lTs) | [🇮🇹](## "Italy") | Italian |
+| 2021-1-19 | Schrodinger Hat | [FOSS Explorer 11 - L'open source italiano alla riscossa](pages/2021/2021-01-19.md) |  | [Recording](https://www.youtube.com/watch?v=1l7gzYeYTOo) | [🇮🇹](## "Italy") | Italian |
 
 
 # 2020
@@ -114,4 +126,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T15:17:18.093Z</i>
+<i>Updated on 2022-05-04T15:23:07.190Z</i>
