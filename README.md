@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-72-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-6-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-73-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-7-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
 <p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -10,14 +10,14 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 2
+ - [Year of 2022](#2022) - total events 3
  - [Year of 2021](#2021) - total events 16
  - [Year of 2020](#2020) - total events 54
 
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 
@@ -25,6 +25,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-4-1 | CSSDAY 2022 | [Automatizzare la conversione in palette di icone e immagini](pages/2022/2022-04-01.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2022-3-16 | FirenzeJS | [Automatizzare la conversione in palette di icone e immagini](pages/2022/2022-03-16.md) |  | [Recording](https://www.youtube.com/watch?v=3MouYKdVrY8) | [🇮🇹](## "Italy") | Italian |
 | 2022-1-20 | ImageGoNord with Fabio Biondi | [ImageGoNord - Convert any image into your fav palette](pages/2022/2022-01-20.md) |  | [Recording](https://www.youtube.com/watch?v=xA10BloVyNI) | [🇮🇹](## "Italy") | Italian |
 
 
@@ -125,4 +126,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T17:52:44.072Z</i>
+<i>Updated on 2022-05-04T17:55:06.418Z</i>
