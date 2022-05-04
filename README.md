@@ -25,7 +25,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-4-1 | CSSDAY 2022 | [Automatizzare la conversione in palette di icone e immagini](pages/2022/2022-04-01.md) |  |  | [🇮🇹](## "Italy") | Italian |
-| 2022-3-16 | FirenzeJS | [Automatizzare la conversione in palette di icone e immagini](pages/2022/2022-03-16.md) |  | [Recording](https://www.youtube.com/watch?v=3MouYKdVrY8) | [🇮🇹](## "Italy") | Italian |
+| 2022-3-16 | FirenzeJS | [YouTube2Anchor.fm - Automatizzare il processo di pubblicazione video / podcast in NodeJS](pages/2022/2022-03-16.md) |  | [Recording](https://www.youtube.com/watch?v=3MouYKdVrY8) | [🇮🇹](## "Italy") | Italian |
 | 2022-1-20 | ImageGoNord with Fabio Biondi | [ImageGoNord - Convert any image into your fav palette](pages/2022/2022-01-20.md) |  | [Recording](https://www.youtube.com/watch?v=xA10BloVyNI) | [🇮🇹](## "Italy") | Italian |
 
 
@@ -126,4 +126,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T17:55:06.418Z</i>
+<i>Updated on 2022-05-04T17:57:37.099Z</i>
