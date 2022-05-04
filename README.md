@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-46-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-43-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-56-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-53-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
 <p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -12,7 +12,7 @@
 
  - [Year of 2022](#2022) - total events 1
  - [Year of 2021](#2021) - total events 1
- - [Year of 2020](#2020) - total events 44
+ - [Year of 2020](#2020) - total events 54
 
 # 2022
 
@@ -48,7 +48,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-44-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-43-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-54-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-53-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 
@@ -67,6 +67,7 @@
 | 2020-11-10 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-11-10.md) |  | [Recording](https://www.youtube.com/watch?v=kq7WPFlP2e8) | [🇮🇹](## "Italy") | Italian |
 | 2020-11-7 | Schrodinger Hat | [Introduzione allo Usability Testing - Metodo do it yourself](pages/2020/2020-11-07.md) |  | [Recording](https://www.youtube.com/watch?v=s9n4zzwt8qU) | [🇮🇹](## "Italy") | Italian |
 | 2020-11-3 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-11-03.md) |  | [Recording](https://www.youtube.com/watch?v=8xTZfqaDkIw) | [🇮🇹](## "Italy") | Italian |
+| 2020-10-30 | Schrodinger Hat | [Il protocollo SFTP in sostituzione a GIT - Speciale Halloween](pages/2020/2020-10-30.md) |  | [Recording](https://www.youtube.com/watch?v=G9114FY58lM) | [🇮🇹](## "Italy") | Italian |
 | 2020-10-27 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-10-27.md) |  | [Recording](https://www.youtube.com/watch?v=I9AOzeNQjOY) | [🇮🇹](## "Italy") | Italian |
 | 2020-10-24 | Schrodinger Hat | [User Interface Design - Interactive Prototyping](pages/2020/2020-10-24.md) |  | [Recording](https://www.youtube.com/watch?v=DC2-LvClyWE) | [🇮🇹](## "Italy") | Italian |
 | 2020-10-20 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-10-20.md) |  | [Recording](https://www.youtube.com/watch?v=t753nYqEs4M) | [🇮🇹](## "Italy") | Italian |
@@ -74,7 +75,16 @@
 | 2020-10-13 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-10-13.md) |  | [Recording](https://www.youtube.com/watch?v=aUqqlxuSx2A) | [🇮🇹](## "Italy") | Italian |
 | 2020-10-11 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-10-11.md) |  | [Recording](https://www.youtube.com/watch?v=hP4bkrPuAWE) | [🇮🇹](## "Italy") | Italian |
 | 2020-10-10 | Schrodinger Hat | [Histolab - A digital pathology image processing library](pages/2020/2020-10-10.md) |  | [Recording](https://www.youtube.com/watch?v=3zKhCdSrqYM) | [🇮🇹](## "Italy") | Italian |
+| 2020-10-6 | Schrodinger Hat | [FOSS Explorer 9 - L'open source italiano alla riscossa](pages/2020/2020-10-06.md) |  | [Recording](https://www.youtube.com/watch?v=dYAfWErlWgA) | [🇮🇹](## "Italy") | Italian |
 | 2020-10-3 | Schrodinger Hat | [Dal prototipo all'implementazione - Wireframe e Responsive Design](pages/2020/2020-10-03.md) |  | [Recording](https://www.youtube.com/watch?v=Ws_5ebm_9fs) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-29 | Schrodinger Hat | [Due chiacchere sulla User Interface - Designflows 2020](pages/2020/2020-09-29.md) |  | [Recording](https://www.youtube.com/watch?v=qAq7V-7nmYE) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-26 | Schrodinger Hat | [Da YouTube a podcast Spotify usando Github Actions](pages/2020/2020-09-26.md) |  | [Recording](https://www.youtube.com/watch?v=8pmLrYnB37A) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-23 | Schrodinger Hat | [Github Cli Review \| Github CLI Tutorial - Demo & Comandi](pages/2020/2020-09-23.md) |  | [Recording](https://www.youtube.com/watch?v=GXFGW88Kr2Q) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-19 | Schrodinger Hat | [UX Design Process - L'approccio User Centered](pages/2020/2020-09-19.md) |  | [Recording](https://www.youtube.com/watch?v=9ObZf6zJ3g4) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-15 | Schrodinger Hat | [FOSS Explorer 8 - L'open source italiano alla riscossa](pages/2020/2020-09-15.md) |  | [Recording](https://www.youtube.com/watch?v=NW_2mBP0XMg) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-12 | Schrodinger Hat | [La libreria opensource python per image processing in Nordtheme](pages/2020/2020-09-12.md) |  | [Recording](https://www.youtube.com/watch?v=3rmeaGuL-RI) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-8 | Schrodinger Hat | [Introduzione a Github Codespaces \| Cosa c'è da sapere per usarlo!](pages/2020/2020-09-08.md) |  | [Recording](https://www.youtube.com/watch?v=A4-qXu26J8g) | [🇮🇹](## "Italy") | Italian |
+| 2020-9-5 | Schrodinger Hat | [UX Fundamentals e Design Thinking](pages/2020/2020-09-05.md) |  | [Recording](https://www.youtube.com/watch?v=TE32DDJNcbQ) | [🇮🇹](## "Italy") | Italian |
 | 2020-8-28 | Schrodinger Hat | [Bootstrap 5 - Il framework più popolare della community](pages/2020/2020-08-28.md) |  | [Recording](https://www.youtube.com/watch?v=nHCXZC2InAA) | [🇮🇹](## "Italy") | Italian |
 | 2020-8-21 | Schrodinger Hat | [FOSS Explorer 7 - L'open source italiano alla riscossa](pages/2020/2020-08-21.md) |  | [Recording](https://www.youtube.com/watch?v=nTxmy-tbqps) | [🇮🇹](## "Italy") | Italian |
 | 2020-8-14 | Schrodinger Hat | [FOSS Explorer 6 - L'open source italiano alla riscossa](pages/2020/2020-08-14.md) |  | [Recording](https://www.youtube.com/watch?v=KNwsaZ84bAc) | [🇮🇹](## "Italy") | Italian |
@@ -104,4 +114,4 @@
 
 <p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
 
-<i>Updated on 2022-05-04T15:10:39.040Z</i>
+<i>Updated on 2022-05-04T15:17:18.093Z</i>
