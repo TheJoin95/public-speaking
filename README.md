@@ -24,7 +24,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2022-4-1 | CSSDAY 2022 | [Automatizzare la conversione in palette di icone e immagini](pages/2022/2022-04-01.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2022-5-16 | Linux Foundation - KubeCon EU Cloud Native - Prometheus Day 2022 Europe | [Optimize UX and Performance Through Grafana, Prometheus and Lighthouse](pages/2022/2022-05-16.md) |  | [Recording](https://www.youtube.com/watch?v=rD6a4EhURaE) | [🇪🇸](## "Spain") | English |
 | 2022-3-16 | FirenzeJS | [YouTube2Anchor.fm - Automatizzare il processo di pubblicazione video / podcast in NodeJS](pages/2022/2022-03-16.md) |  | [Recording](https://www.youtube.com/watch?v=3MouYKdVrY8) | [🇮🇹](## "Italy") | Italian |
 | 2022-1-20 | ImageGoNord with Fabio Biondi | [ImageGoNord - Convert any image into your fav palette](pages/2022/2022-01-20.md) |  | [Recording](https://www.youtube.com/watch?v=xA10BloVyNI) | [🇮🇹](## "Italy") | Italian |
 
@@ -126,4 +126,4 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-<i>Updated on 2022-07-12T14:08:42.908Z</i>
+<i>Updated on 2022-07-12T14:29:58.116Z</i>
