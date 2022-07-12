@@ -1,7 +1,7 @@
 <div align='center'><p><img src="https://img.shields.io/badge/total-73-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-7-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
-  <p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>
-<p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
+  <p align='center'><h1 align='center'>Public Speaking Dir</h1>
+<p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/thejoin95'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
 
  - In addition to raw HTML elements, you can use format sections
  - Using HTML elements to construct the output
@@ -124,6 +124,6 @@
 
 
 
-<p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>
+<p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-<i>Updated on 2022-05-04T17:57:37.099Z</i>
+<i>Updated on 2022-07-12T14:08:42.908Z</i>
