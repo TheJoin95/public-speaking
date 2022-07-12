@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-73-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-7-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-74-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-8-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking Dir</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/thejoin95'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
@@ -10,14 +10,14 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 3
+ - [Year of 2022](#2022) - total events 4
  - [Year of 2021](#2021) - total events 16
  - [Year of 2020](#2020) - total events 54
 
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 
@@ -25,6 +25,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-5-16 | Linux Foundation - KubeCon EU Cloud Native - Prometheus Day 2022 Europe | [Optimize UX and Performance Through Grafana, Prometheus and Lighthouse](pages/2022/2022-05-16.md) |  | [Recording](https://www.youtube.com/watch?v=rD6a4EhURaE) | [🇪🇸](## "Spain") | English |
+| 2022-4-1 | CSSDAY 2022 | [Automatizzare la conversione in palette di icone e immagini](pages/2022/2022-04-01.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2022-3-16 | FirenzeJS | [YouTube2Anchor.fm - Automatizzare il processo di pubblicazione video / podcast in NodeJS](pages/2022/2022-03-16.md) |  | [Recording](https://www.youtube.com/watch?v=3MouYKdVrY8) | [🇮🇹](## "Italy") | Italian |
 | 2022-1-20 | ImageGoNord with Fabio Biondi | [ImageGoNord - Convert any image into your fav palette](pages/2022/2022-01-20.md) |  | [Recording](https://www.youtube.com/watch?v=xA10BloVyNI) | [🇮🇹](## "Italy") | Italian |
 
@@ -126,4 +127,4 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-<i>Updated on 2022-07-12T14:29:58.116Z</i>
+<i>Updated on 2022-07-12T14:31:49.868Z</i>
