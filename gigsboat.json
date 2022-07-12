@@ -7,10 +7,10 @@
   },
   "preContent": [
     {
-      "raw": "<p align='center'><h1 align='center'>This will appear at the top of the generated README.md file</h1>"
+      "raw": "<p align='center'><h1 align='center'>Public Speaking Dir</h1>"
     },
     {
-      "raw": "<p align='center'>Let's add some badges! <p align='center'><a href='https://twitter.com/liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>"
+      "raw": "<p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/thejoin95'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>"
     },
     {
       "format": [
@@ -25,7 +25,7 @@
   ],
   "postContent": [
     {
-      "raw": "<p align='center'><h1 align='center'>This will appear at the bottom of the generated README.md file</h1>"
+      "raw": "<p align='center'><h1 align='center'>Feel free to reach me out</h1>"
     }
   ]
 }
