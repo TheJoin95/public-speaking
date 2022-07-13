@@ -3,10 +3,6 @@
   <p align='center'><h1 align='center'>Public Speaking Dir</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/thejoin95'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
 
- - In addition to raw HTML elements, you can use format sections
- - Using HTML elements to construct the output
-
-
 # Table of Contents
 
 
@@ -129,4 +125,4 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-<i>Updated on 2022-07-12T14:45:36.228Z</i>
+<i>Updated on 2022-07-13T07:29:59.927Z</i>
