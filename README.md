@@ -1,7 +1,7 @@
 <div align='center'><p><img src="https://img.shields.io/badge/total-76-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-64-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars">  </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking Dir</h1>
-<p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/thejoin95'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a></p>
+<p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/thejoin95'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/thejoin95?style=social'></a></p>
 
 # Table of Contents
 
@@ -125,4 +125,4 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-<i>Updated on 2022-07-13T07:29:59.927Z</i>
+<i>Updated on 2022-07-13T07:35:39.989Z</i>
